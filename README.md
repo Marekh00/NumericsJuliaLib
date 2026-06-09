@@ -43,6 +43,7 @@ Known function of the ODE in terms of t
 ### Example:
 y''' + y'' + y' + y = x^2
 ```julia
+using NJLib
 initialV = [1,2,1]
 interval = (0,5)
 ODE = [1,1,1,1]
