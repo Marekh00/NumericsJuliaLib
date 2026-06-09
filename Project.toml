@@ -1,0 +1,5 @@
+name = "NJLib"
+uuid = "891c8d72-3a1c-4b3f-9b6d-5c2a7f8e9d0b"
+
+[deps]
+CodeTracking = "da1fd8a2-8d9e-5ec2-8556-3022fb5608a2"
